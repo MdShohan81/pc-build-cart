@@ -31,4 +31,10 @@ body {
     background-color: cornflowerblue;
     color: white;
 }
+#applied-text{
+    display: none;
+}
+#failed-text{
+    display: none;
+}
 /* --------------------End---------------------- */
